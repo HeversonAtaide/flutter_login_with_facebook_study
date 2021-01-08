@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "365113806894",
+    "project_id": "facebooklogin-caf3d",
+    "storage_bucket": "facebooklogin-caf3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365113806894:android:dde23d0f83207778268fbf",
+        "android_client_info": {
+          "package_name": "com.heverson.flutter_login_with_facebook_study"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365113806894-jq8dso1c9cd3a8hne1an4dkkv2dsqta2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.heverson.flutter_login_with_facebook_study",
+            "certificate_hash": "eb3028fbd3efeb2cb282df03672c7598976e485c"
+          }
+        },
+        {
+          "client_id": "365113806894-o2fhfemfu2lq857qvff04sprc557vaa1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-KUCtSOZwSHzL8WYVxjUIWzOUUjlRh3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365113806894-o2fhfemfu2lq857qvff04sprc557vaa1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
